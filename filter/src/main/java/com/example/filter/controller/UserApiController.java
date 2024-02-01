@@ -21,9 +21,5 @@ public class UserApiController {
     ){
         log.info("{}", userRequest);
     }
-    public void find(){
-        //djsaflkdjsfklasjf;lajs;lfjask;f
-        //21lkjafldk;sjflkas
-        //dsjaklf;slf
-    }
+
 }
